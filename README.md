@@ -1,20 +1,6 @@
 # Bitz-Node-Miner-Run-Full-Guide
 
 
-# Bitz Node Miner Run Full Guide (PC and VPS and Mac)
-
-### Offical Docs Guide - still searching..................
-
-CA(eclipse) - 64mggk2nXg6vHC1qCdsZdEFzd5QGN4id54Vbho4PswCF
-----
-
-## 🧰 Prerequisites
-### Before getting started, make sure you have the following:
-	
- * A Backpack wallet (or another Eclipse-compatible wallet) [Download](https://chromewebstore.google.com/detail/backpack/aflkmfhebedbjioipglgcbcmnbpgliof)
- * 0.005+ ETH on the Eclipse network
----
-
 1️⃣ Dependencies for WINDOWS & LINUX & VPS & Mac
 
 For WSL or VPS
