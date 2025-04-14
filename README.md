@@ -47,7 +47,7 @@ source ~/.bashrc
 
 4️⃣ Configue RPC for Eclipse
 ```
-solana config set --url https://mainnetbeta-rpc.eclipse.xyz/
+solana config set --url https://eclipse.helius-rpc.com/
 ```
 
 5️⃣ Wallet Setup (Solana Keypair)
