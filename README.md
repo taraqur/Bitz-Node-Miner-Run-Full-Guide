@@ -1,9 +1,9 @@
 # Bitz-Node-Miner-Run-Full-Guide
 
 
-1️⃣ Dependencies for WINDOWS & LINUX & VPS & Mac
+1️⃣ Dependencies for WINDOWS
 
-For WSL or VPS
+For WSL
 ```
 sudo apt update && sudo apt upgrade -y
 sudo apt install curl nano build-essential -y
@@ -12,7 +12,7 @@ sudo apt install curl nano build-essential -y
 
 2️⃣ Install Rust & Node Js & Yarn
 
-For WSL or VPS
+For WSL 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source $HOME/.cargo/env
